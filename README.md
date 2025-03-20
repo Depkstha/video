@@ -1,10 +1,10 @@
-# Youtube Video Listing
+# YouTube Video Listing
 
 This project allows users to browse and manage a collection of YouTube videos. It provides features for viewing video details, including titles, descriptions, and thumbnails.
 
 ## Table of Contents
 
-- [Youtube Video Listing](#youtube-video-listing)
+- [YouTube Video Listing](#youtube-video-listing)
   - [Table of Contents](#table-of-contents)
   - [Deployment](#deployment)
   - [Features](#features)
