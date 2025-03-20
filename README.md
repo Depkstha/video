@@ -22,7 +22,7 @@ This project allows users to browse and manage a collection of YouTube videos. I
 - **Responsive Design**: The project adjusts its layout based on the screen size using grid and media queries, ensuring a great user experience on both desktop and mobile devices.
 - **Video Thumbnails**: Displays engaging thumbnails for each video, making it easy for users to identify content.
 - **Search Functionality**: Users can search for specific videos by title or keyword.
-- **Video Details**: Each video card includes a title, description, and a link to view the video on Youtube.
+- **Video Details**: Each video card includes a title, description, and a link to view the video on YouTube.
 - **User-Friendly Interface**: A clean and modern UI that enhances navigation and interaction.
 
 ## Technologies Used
@@ -30,7 +30,7 @@ This project allows users to browse and manage a collection of YouTube videos. I
 - **HTML5**: For the structure of the project.
 - **CSS3**: For styling and responsive design.
 - **JavaScript**: For interactive elements.
-- **FeeAPI Data API**: Used to fetch video details and manage video listings.
+- **Free API Data API**: Used to fetch video details and manage video listings.
 
 ## Installation
 
