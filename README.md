@@ -19,7 +19,7 @@ This project allows users to browse and manage a collection of YouTube videos. I
 
 ## Features
 
-- **Responsive Design**: The project adjusts its layout based on the screen size, ensuring a great user experience on both desktop and mobile devices.
+- **Responsive Design**: The project adjusts its layout based on the screen size using grid and media queries, ensuring a great user experience on both desktop and mobile devices.
 - **Video Thumbnails**: Displays engaging thumbnails for each video, making it easy for users to identify content.
 - **Search Functionality**: Users can search for specific videos by title or keyword.
 - **Video Details**: Each video card includes a title, description, and a link to view the video on Youtube.
