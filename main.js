@@ -31,7 +31,7 @@ function convertToTime(duration) {
 const generateVideoURL = (videoId) => {
   const YOUTUBE_URL = new URL("https://www.youtube.com/watch");
   const params = new URLSearchParams(YOUTUBE_URL);
-  params.append("search", videoId);
+  params.append("v", videoId);
   YOUTUBE_URL.search = params.toString();
   return YOUTUBE_URL.toString();
 };
